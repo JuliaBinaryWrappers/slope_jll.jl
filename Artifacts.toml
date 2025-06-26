@@ -1,1841 +1,836 @@
 [[slope]]
 arch = "aarch64"
-git-tree-sha1 = "b586bd9ba4f16f526367ff54349aa2169c493c0d"
+git-tree-sha1 = "6c160680ad523f37679fafb0da1892ca639a562e"
 julia_version = "1.10.0"
 os = "macos"
 
     [[slope.download]]
-    sha256 = "37a2b05f4c1848115915cc8c38c2377e2978efba50803047ecc701107d049581"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "7bf290dc4da062f90cc37b5ecb47e845552d7fd5401a0a3bfc7959927b6b5332"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[slope]]
 arch = "aarch64"
-git-tree-sha1 = "1a8c20e9debdd9cf54de8358518c0458f3f530ac"
+git-tree-sha1 = "a7701e9a150852311f2a8f0a6845404a6d3776db"
 julia_version = "1.11.1"
 os = "macos"
 
     [[slope.download]]
-    sha256 = "f7231f49ad737bb5a4612a9bab363e8079eb1cdfd26232e39beb40a61721efa8"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "b6cc5730f326883377abd034f0134e10847c85c2e12aae31f027afcf4baa945f"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[slope]]
 arch = "aarch64"
-git-tree-sha1 = "9e45dad52871d545688b29b67b70a1751420c198"
+git-tree-sha1 = "9a1dcc2fc386121bcd212e418019cd9a308aceb7"
 julia_version = "1.12.0"
 os = "macos"
 
     [[slope.download]]
-    sha256 = "caf7d706b2044b15b3d53c97fd981c5b772eba6d03cf3aef8176d0aa215bf223"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "146ad11c9b797c1a71066742c0f7a667150b25ab2c82f81da07e30f9d405a859"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "aarch64"
-git-tree-sha1 = "40a096bfcc935e512bb56a24f263975b8cfbcc73"
+git-tree-sha1 = "e8d6c59320861216a04e9926a3a6545198835352"
 julia_version = "1.13.0"
 os = "macos"
 
     [[slope.download]]
-    sha256 = "42b5a88c87a480b5dc021c7c7ebe2e987f915c8db628eb386a4ed8778a2b670c"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
-[[slope]]
-arch = "aarch64"
-git-tree-sha1 = "aea885e1ce3041d58649c227d8a80262395ffc66"
-julia_version = "1.7.0"
-os = "macos"
-
-    [[slope.download]]
-    sha256 = "c659b52a32f28aa5c5231f3c6c8520679c3b1fb633004639020ed0e22df3768a"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "aarch64"
-git-tree-sha1 = "976d861c5dfe8ccbe7f0ccbc8d81a19dc53ebe5f"
-julia_version = "1.8.2"
-os = "macos"
-
-    [[slope.download]]
-    sha256 = "ea459880863b5f8d624fa7ce5ccd5648aa8c302ce247d9d7eef3745491d58f2e"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "aarch64"
-git-tree-sha1 = "71cd7b54e740f9eeb2cf5f91ae35c3fa94da70c3"
-julia_version = "1.9.0"
-os = "macos"
-
-    [[slope.download]]
-    sha256 = "fb698348fe58f373bccf7308247ea20c74cd5aca7ae29f1f453a0ae4fdf152f7"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "92b218fd3c4f8cec79d0649bbfd7859b7643f8ec2400a02ccda8679f31acf0c3"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[slope]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f8ae7063e7e143da52391283fbeaf4b065f690fc"
+git-tree-sha1 = "7a6f2ac5dfec057882ec2b1fee85d97e8439df44"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "e9f283e17eb962b0a64d8d120226e36df7e5c67990ac28c2874f3e6587d252b7"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "e8e4c986f2518acadc77b184bbdfd5499ee96ba6d54bdb6d4d0f3d78b02e14cd"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[slope]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "eeda452fe190dd4c6b97f79abc03f753e4092f07"
+git-tree-sha1 = "278d7be4459ef6ef81e17adf63cac4800f6018e0"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "738616e91de9db6044e3478cbbb75fe9a5462b3cf752dbaa05ec24e6bb87d1ce"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "10ccd3e377c486cb2c1848d7560b4a6b66f532c1034503f9e9d5a42416db9682"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[slope]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "27e9adcbbfc0db246e3304aba3832aa42cd5db61"
+git-tree-sha1 = "750058ae615f4d6b88ec658b13275c1789c8ecb6"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "b73c0db385ad418c67f3026435e67b1ecc9bbb1c5e52b4ebaa0161a5a982ca21"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "56a5b2ac343bf42c554f7825fc3c7b6745e6f9f807d9440a9064a20b77cb6ca7"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5c94d09683b01e35f6b7316592b53192e62372df"
+git-tree-sha1 = "db16b1c86abcf9c463e6105b7fbb6ffc51766bd0"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "842421ab453ef09eff71797f218dc324722c07dd18b2f7948ebd0ede329c542a"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
-[[slope]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f94e6c78dd02c4c9fb50713ac91d524324411399"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "05d432455c49ca001aee904d2fec893568b3715a2fb0764982811896a9c53efd"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "51e764f2cf2e1cba91b1430b386d459c5158468e"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "3a14fc74b61df29010d8fad413757377c1dfab71822a59b3f722c6b8f9bea8ad"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "51e764f2cf2e1cba91b1430b386d459c5158468e"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "3a14fc74b61df29010d8fad413757377c1dfab71822a59b3f722c6b8f9bea8ad"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "159a46d6e3417751f2e296c1cd244fa4ea7e3dba"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "2412a7d11268bbd1292c6826a3b2b1c3454919f05f6dd0c806aaf722c0a606b8"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "5d45fc41936538268880b1f700b8a4ef910e47f351221c38d9c27b305cb7562e"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
 [[slope]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d280e59f6767f78e83e1e31c971b82db2e57b33b"
+git-tree-sha1 = "e1a0fa5e22263bfc1939b3a44c851f2ba4fd0672"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "2dcfb60cc6abe4c08b4fd87f1a4f3b299e3cbab454c02254b5a5f0e0303d45f1"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "af1cd8fad355bddcb8bb6a29b0cd3913ed702cd27e62dba199b9f9de9e875f61"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[slope]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6ca393ff92e3fbfb3b3b9a7af52cd2d4603c2f33"
+git-tree-sha1 = "6e350ad3f275b58839ae4efa17d851efa8df8467"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "2de058c14a6a717844e884d47e3ed25b76d4cba58f8e1f6966d89e3a58c0377c"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "f1270d740e5323d33d8d6fb3d67d17b99970eb0e89a65f5bbb632ba731f8a383"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[slope]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c91bea99b949441f7680b1e966d86d7b28e5ab36"
+git-tree-sha1 = "72bfafd5b6019dc7c2b697122e868254cea0cc9c"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "64d543ba9add468ce92e833c0ea03a81e31b15218b8503b795ba119493d02f82"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "daa9e6a6d382abe5c6534787e22fcd016803b4421c4e7a6b5d0a9bd990b7fdda"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2561175c0a54a67b3468978c0925987fa6176e56"
+git-tree-sha1 = "30463e603f6cfa2d233c5e0d06e4612060ef4eed"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "ab59c795b5745f86ec718a517b240340bd41b98e4f07567d0dd6d83603f3a71d"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
-[[slope]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "72f7974cd4353ac1b34737e17700ca2c99c142b8"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "f47927675a26e9a2b2e25f5fbad3dd29f6767b04e72b38e73afc4205775a3682"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "bc9a5fa5f5fcaf26317fb1911095a3bef25a4040"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "ed02532adc42267288cd543d33929c54b979571b28afd99a7a2cae3375d528e0"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "bc9a5fa5f5fcaf26317fb1911095a3bef25a4040"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "ed02532adc42267288cd543d33929c54b979571b28afd99a7a2cae3375d528e0"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "fe01ecfd3180ee82ab3faba09299368f76ce4b38"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "9c7f123d48ebe9872569bc9232f9ae3d043ea1f13ac34b7a247b3ed9efc24a8e"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "9c1c4496dd1ab5589bb0d0b157a8141ce0b63c4684e6d3664b08aed3cc9b610d"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[slope]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cae24af656031a9ed53e395de0aaf047438cf822"
+git-tree-sha1 = "ed7b604b17249b7c1f5229694ffb0fdd80e905e2"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "a57a668dbd248cefde3f498ea2018b4c6357ed2c67a876c4d777418091260906"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "bff3f3fa34fa72a41173e4f1e3b4e1a2d78d79231c9b2c11cdc3413c690e2957"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
 [[slope]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c700849e7a423f57084ac1455570ab68b672b8f2"
+git-tree-sha1 = "2cf62ce814b8cc07b4da85c61e6b3326dd4d14fc"
 julia_version = "1.11.1"
 libc = "musl"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "42cf2dfe532903713685e6ffd66c063fd801215655fbbb9bc91fd20626157634"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-musl-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "d0a47f53a58f305bdfeb2b56849d9a8e4c83fec185343c05eb587820912383f1"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-linux-musl-cxx03-julia_version+1.11.1.tar.gz"
 [[slope]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "72e6069b47fa9c9af35ec3f9a369d1bf6a23a7ab"
+git-tree-sha1 = "6835a06d47e4d798d271a8b4cd458283236cc1de"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "b3134900d50df5f2668e0638f62ed23bafe4f2d9d243b5e103ff02fcfa80b9d5"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "733937047f95f535503e9a97190d50a55c4582611d3cc85f6fed35edc630d0fa"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "273a0d0d7fe040c650751acf8b14d535968356db"
+git-tree-sha1 = "4b817036adc4bbdc13dba42bb18b0bf367675b26"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "fa1cd621ddcbd837c05ca239954838032da2166452c12baefc60117055fd1bd4"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-musl-cxx03-julia_version+1.13.0.tar.gz"
-[[slope]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "fb01f7508d1d6fed0d40589a5b1afd75cba5812c"
-julia_version = "1.6.3"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "8d61c4ec4643318093b62a77dd6e1c086506839e6af29086acf182218f5eaa4c"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "188245f380209bd70bff7339cc9c3c44945275a9"
-julia_version = "1.7.0"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "fb1268e2b2ebe2755eb23e6430db00bf46c6fd1fc19be137503deababa3d9f58"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "188245f380209bd70bff7339cc9c3c44945275a9"
-julia_version = "1.8.2"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "fb1268e2b2ebe2755eb23e6430db00bf46c6fd1fc19be137503deababa3d9f58"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "dead937b2e3f97b62242bac9b603ae692f00f9e5"
-julia_version = "1.9.0"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "32980797b1788a04d84e89c3ceb94e6280f94c87fbe5c8a75712d229d3bda257"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "f914b098108eb76c26323ba6dc7a72d9c9b3fbc2f39777774c78a0f69a438423"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-linux-musl-cxx03-julia_version+1.13.0.tar.gz"
 [[slope]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "603e6dd5c6ab67da59318225fc6b1ab2367f2560"
+git-tree-sha1 = "2b3227e235ef064f1594858c7e0d7620c3534b72"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "b77eb1278d48b546a6f400858e592e26369d669f90972e796a0f1489f8fe8719"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "baf1d69dfdf1cc45c2b48113c99473830588f95cb6f156ea75a6644510f16ab9"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[slope]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cdfc295c8cd260781627ee18b653c21502dee15e"
+git-tree-sha1 = "14223bb15e3230d57d657198063bfab1d07d8add"
 julia_version = "1.11.1"
 libc = "musl"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "77d5cdad580a4128f8e458139dafa1efc0bd8913e2d2712d817bf7a390ed9622"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "6c04025f3e78e18b60145e6dbd0701523f98c186373f6995c3fd673ddb9c2122"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
 [[slope]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "61c76deb055381bbb463ab10e416b126608dfde9"
+git-tree-sha1 = "e49f649bb2f070c391bd71e1111b3db445ed3bee"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "802954b609a657c9a5fb389d4012c70df49b19685fdccaf479cf7f70ca623a4d"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "529b9129c8e7bb2fe72227d5efc6d13f88be050e851e7ccd63cb3078c378c466"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "33b49103187ef6dde02a18bc7d6d17f120515379"
+git-tree-sha1 = "0addb14c121a6eae0b97be745a8e740945d25e63"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "521f9d0e0778007db53f1f4c46a84cdf8dc56d2e350579021475d8abc5ac5c28"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "fe7802feaf8dd99db38c15fd172e7a5b63dc9af284ec627ff8efcc00a4e6e63a"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
 [[slope]]
 arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "f111098fa4ff9aa8193356caa85db61995ce0a74"
-julia_version = "1.6.3"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "ffcb791f329cc1727cfcca7e89b455812d9753d96586bcabe41eef5f2941c3ae"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "674921e0e024b51ef7c5adb5d49e583598d6c498"
-julia_version = "1.7.0"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "54ecd776889d90e013f475d588d2d4c1868e7b02f6c2b56b5b25b46ef95fe51e"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "674921e0e024b51ef7c5adb5d49e583598d6c498"
-julia_version = "1.8.2"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "54ecd776889d90e013f475d588d2d4c1868e7b02f6c2b56b5b25b46ef95fe51e"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d1bcd536999b6509edb9f5863479ea1f20ae7900"
-julia_version = "1.9.0"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "9ac2cdc6813c8a7105f508f3350f90ae5f66be141a4eea7d35dbe41285d2934d"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
-[[slope]]
-arch = "aarch64"
-git-tree-sha1 = "f15cf58f73e24814d3489752d5c1e57f6ef051b2"
+git-tree-sha1 = "892fd49ff9c7e68e0c3c6b134cbe80d0012e051e"
 julia_version = "1.12.0"
 os = "freebsd"
 
     [[slope.download]]
-    sha256 = "f93ddeab7ca635432f226391122e655389a96385fa1d2bb38cb1a5fab64eebe8"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    sha256 = "a210e0edc935ee2ca3e96e2f7056495b65464f97c22e15be27017daa3a0c958a"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "aarch64"
-git-tree-sha1 = "48197f80533924940e7b9486ccd17fc2cd632c99"
+git-tree-sha1 = "4ced878fc42f7dd4e094da8e68d10bc1f2ea41cc"
 julia_version = "1.13.0"
 os = "freebsd"
 
     [[slope.download]]
-    sha256 = "8a7000ed7dbba79746652ef66c84e5d07a7ae3250094f38e51f754fe05fac681"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.aarch64-unknown-freebsd-julia_version+1.13.0.tar.gz"
-[[slope]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "a3599f87212c44fd1e0aa2cac94a559800a84fa5"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "7a45bd7ee9c9c803b624c0180fc9c44a91181194e30d678a6a50bd1b88f98403"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "a3599f87212c44fd1e0aa2cac94a559800a84fa5"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "7a45bd7ee9c9c803b624c0180fc9c44a91181194e30d678a6a50bd1b88f98403"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "442fe4e41cbb590df47bd5e47ff13b9c97fd0830"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "f6bba8cd866ff0b521f91ecebafb351ca0352ddf8a0c1990371a0ddeae0b9545"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "442fe4e41cbb590df47bd5e47ff13b9c97fd0830"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "f6bba8cd866ff0b521f91ecebafb351ca0352ddf8a0c1990371a0ddeae0b9545"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "435bbb9239b54af44c8f6bb3af8448c1872812b8"
-julia_version = "1.7.0"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "fefc083df87d980cf10ba3645e6df281e90b977cb9a7408e17dd7ad9dace852c"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv6l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "435bbb9239b54af44c8f6bb3af8448c1872812b8"
-julia_version = "1.8.2"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "fefc083df87d980cf10ba3645e6df281e90b977cb9a7408e17dd7ad9dace852c"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv6l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "51fea8f79a4b8371b641e542cee9aa6497fd071f"
-julia_version = "1.7.0"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "a924039991d283bdff59cb96fd8dce56cfd461d5d6e97f8f274385892b708b91"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv6l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "51fea8f79a4b8371b641e542cee9aa6497fd071f"
-julia_version = "1.8.2"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "a924039991d283bdff59cb96fd8dce56cfd461d5d6e97f8f274385892b708b91"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv6l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "749a2b23cf64b4848e3c024cc422a4ac62c0ca8a"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "bf08cb07da8c33e9217c6e74066a33d270f871902a1dee1eb39d0c024ad46861"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "2744b3a209d015cbe58531c415e7ded805c90116"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "725eb88c4384324abe60ef6faa56d142c3c9b185f918ef52596362825de160c6"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "2744b3a209d015cbe58531c415e7ded805c90116"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "725eb88c4384324abe60ef6faa56d142c3c9b185f918ef52596362825de160c6"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d4b3383c582d25bb33d03ce563ee031ac0e1b947"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "e11b41ef5bd564eed6c373863b5d06b39e176586834a8ff42cfb1c7ffb35ac1f"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c98d4d8abe0f7d0daf6835f37f1d2c729dabbd43"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "1617016c1ddb68ae92c5729d3ac8bbb7f6e7e88a20b8260366205a5dae63895d"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c98d4d8abe0f7d0daf6835f37f1d2c729dabbd43"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "1617016c1ddb68ae92c5729d3ac8bbb7f6e7e88a20b8260366205a5dae63895d"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ec2b833498b75cadcc1eef7813b7f1474e51da7b"
-julia_version = "1.6.3"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "2a0ecd88df62821c8bf26aed6efce79c607301f8372b11a58ff7d78500c1afa4"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv7l-linux-musleabihf-cxx03-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "dfae7b3b44b3fd80fc6f8d6d47e98579085cfc64"
-julia_version = "1.7.0"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "ddf299b6abe33c8a70fd168eec7003393465ac693d298c01c37cd08ecc53506d"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "dfae7b3b44b3fd80fc6f8d6d47e98579085cfc64"
-julia_version = "1.8.2"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "ddf299b6abe33c8a70fd168eec7003393465ac693d298c01c37cd08ecc53506d"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv7l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "3381ac237414b548955162e31d4b40c09fdb7c45"
-julia_version = "1.6.3"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "ba982420c8142c93fe5c538f1b1a6390cc4cdbd7bc759c4a66d2dfbc7fbc04ca"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv7l-linux-musleabihf-cxx11-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "8036f47b699da748249979080df073b967c17a76"
-julia_version = "1.7.0"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "18e4567b4232ec3a501140f793464d9f0a2ab41928f4b8fe0ce249dc566c0edd"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "8036f47b699da748249979080df073b967c17a76"
-julia_version = "1.8.2"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "18e4567b4232ec3a501140f793464d9f0a2ab41928f4b8fe0ce249dc566c0edd"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.armv7l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "d8707bc68694a5330fe3b625591cf02532d9bf6b15f26885f9254b011dc307be"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.aarch64-unknown-freebsd-julia_version+1.13.0.tar.gz"
 [[slope]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "98b877e8b9d08033fa2bbf691caa062c7cfbcfe9"
+git-tree-sha1 = "848841b62930f854184b3e04fd2dc1566505abc4"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "d88ac3702d1220ce4acc8de71db6fe02919a8633d8b74dfa5536ff24e86795cc"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "e480f1b9a38a072f576269560721c09ae66820956c577e2ab1a029586d4fa1c4"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[slope]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bc0ad505e7ada8a68df226accda93748317b6c19"
+git-tree-sha1 = "d702a1ef35df4927a7049ef21aa9f82409bc7bb1"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "d0bdc20f40edc1fbba9aaee9309389e8520d0343c4a3e5fd7d09cba0f7a8c808"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "5f4788a8f515b668633574f9d4935304cb046e72ffbf7e4cbf814a2fc2ff9825"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.i686-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[slope]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4988a8a0dff0cd1e0f40f433aee0752d46b84b5f"
+git-tree-sha1 = "b2c4b7913905f0194ffa0827dc5b3a2f31331c4f"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "9dda7394afd9d4f06176b3dfe44bae4e0c79478ce8492e6e10f81b93b17c05ac"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "7067e46a4917837fef95193fa030d1c15427f80a87474a1ed2cfa0e914d66a96"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.i686-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "324963062e8e96b6a6289f378a21609ad250f55e"
+git-tree-sha1 = "d21caf16cafd244edcdec8a53fa9780fdb290531"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "f37028a34dee84e5d6978ba43aa0901307b8e7fdbbfce363080ea55eba4008dd"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
-[[slope]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "46eade34109988d5d696100e1e2929ad1e746f39"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "c0623dc479d96be5c7f34e891a9081abf44f78547c287925f3ff53f00027c7f6"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "034a3d4fca9d730a75826e321d9e9f6268978ab3"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "ec82905d2d5e85ff04086e833cd236c8fcb44b1f2ef04a88059c4eefa31761b8"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "034a3d4fca9d730a75826e321d9e9f6268978ab3"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "ec82905d2d5e85ff04086e833cd236c8fcb44b1f2ef04a88059c4eefa31761b8"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "034a3d4fca9d730a75826e321d9e9f6268978ab3"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "ec82905d2d5e85ff04086e833cd236c8fcb44b1f2ef04a88059c4eefa31761b8"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "2bdad8f0d83b8a087c18c06faadee41eef51dda1fd84f73ba9adb59bd3ba97d5"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.i686-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
 [[slope]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2c5b2c0a972be778448eb8fe5196b7da607284d3"
+git-tree-sha1 = "cfec21b650d01f49ed750cbd05bc988baa6999dd"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "b9f81ba775ccc16447ac2fe96b5fd3b519c99ab41a8833e6578e450461fff1e5"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "a04c5f9581ca866947ce05603e62db0798e66cb520fde6b4e2358803af972d8b"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[slope]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c771ba2bd90cff3b9e9b7ba0d8e8738ad7129ce6"
+git-tree-sha1 = "05621d73b7f281e4a71047689e54e66ca87ed232"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "afa01e62ec0c8248e21462df17a44e1f5e58ce79b21a399d91806a64cca84436"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "a70d3b6cc3dac86d109d8baf32055932d2e497e3617584db5553b5c5bd5e0f74"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.i686-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[slope]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "504452f46fe3d1a121af444c3a77592a6060530a"
+git-tree-sha1 = "aebbd485b91b837540fed7c853b49cef4320e39f"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "66136e7afda2477222e94bd383d28b815193ae37203fa5a579dd44ed897d8f07"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "0131d984401cb10d014cbc8aecdad93957bfb485a1b3035b1ca4e31d969d5d2b"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "672161fd30ae7e7013c31b25bf31c706802dcba6"
+git-tree-sha1 = "09807685969c4c39851e7f4d8a42c6c30446438c"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "fb321e78aca6496a9d40af17b0fd5657f598bbfac176d1dc7d54eb4cea7f7b46"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
-[[slope]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "2d01ef5da8c862adebc6db2451ee72efa8bf5551"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "b6840f39bcc599c88762180659060004f754122b81397c8048ac589e71c85b58"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "bbff910ec85603abcb1479ad7d747b9be9b601e4"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "34de110bbed4cdf88383ce1897532e9eb3ee614e44a52bd1ede3d4dc5a2b4a40"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "bbff910ec85603abcb1479ad7d747b9be9b601e4"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "34de110bbed4cdf88383ce1897532e9eb3ee614e44a52bd1ede3d4dc5a2b4a40"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "bbff910ec85603abcb1479ad7d747b9be9b601e4"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "34de110bbed4cdf88383ce1897532e9eb3ee614e44a52bd1ede3d4dc5a2b4a40"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "d4c7978bc5a5743f0dec2eefa009fb59347dde5a38c38f4cf7d11f5b0cb6fa12"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.i686-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[slope]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8c0e109bf7dba06d5c71416d40c989c2add31564"
+git-tree-sha1 = "bfc07d7b10ed2374f47c0bf2c7f045f12a0849a0"
 julia_version = "1.10.0"
 os = "windows"
 
     [[slope.download]]
-    sha256 = "f08417dcf8833d4cfc69d0a32e424a45bcd53092d8636946013c22b831502c0e"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "c4ab01e725e4270081913611a2f72efeeab5285bf11037189c83606e613fc209"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.i686-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
 [[slope]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "21cb8ddc8655231e6d9c9313cdbdac3900f10caf"
+git-tree-sha1 = "1c5ef3509afee7ab104781aa7c5806507a83696f"
 julia_version = "1.11.1"
 os = "windows"
 
     [[slope.download]]
-    sha256 = "a90b6f07ddd7f756b56f26449871dec3b5a3e1f30eb8bde5ab18518fc7c8e564"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-w64-mingw32-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "aa288f8ab5d20737721b685ea134d9c50f4436a022e92a1b07da9b413fbcc34e"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.i686-w64-mingw32-cxx03-julia_version+1.11.1.tar.gz"
 [[slope]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "685b24cfa7c6eb2307016e853ec96ae90502bc48"
+git-tree-sha1 = "2955ce17395ead77000e6acb09082a41d6f0a347"
 julia_version = "1.12.0"
 os = "windows"
 
     [[slope.download]]
-    sha256 = "573e1a178a8dca708db4931fe92bb757a8ead110b549c531e7d70d94e3f70527"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "8ee59ef7c4654acd88f2ac954104dfac1d31543a26e78d86e11968e1b5faaf5c"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.i686-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "685b24cfa7c6eb2307016e853ec96ae90502bc48"
+git-tree-sha1 = "e1679e58de44fa71b85b9c6f30e4f8fa8733ddfd"
 julia_version = "1.13.0"
 os = "windows"
 
     [[slope.download]]
-    sha256 = "573e1a178a8dca708db4931fe92bb757a8ead110b549c531e7d70d94e3f70527"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-w64-mingw32-cxx03-julia_version+1.13.0.tar.gz"
-[[slope]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "963cfae22ab323e4c90a4b9fa04fc04cf9b92d1e"
-julia_version = "1.6.3"
-os = "windows"
-
-    [[slope.download]]
-    sha256 = "0ee4ece674fb91dd78fadddb64752f32711e327368ae6b72237f21fc89d45a86"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "14ba599ca189872c63ef71a0c1ff5c979c1e3320"
-julia_version = "1.7.0"
-os = "windows"
-
-    [[slope.download]]
-    sha256 = "9b4c7cc65e448ef4f90156aae74f3175312638c2f8ee0d1e8fc38070d6649c9e"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "8512a6e797e7867ac36a5bde18dff22cb95456d5"
-julia_version = "1.8.2"
-os = "windows"
-
-    [[slope.download]]
-    sha256 = "c73b497cc50c625e210645151b28c7ff988278721a3a6e09e1d1343e7eef3d07"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "0e98a3b89b6b1a9000264078429c8d8de58ff503"
-julia_version = "1.9.0"
-os = "windows"
-
-    [[slope.download]]
-    sha256 = "1c9e2d22b82a4da5d5061111afaa3a1f2214870d9e577e8f80f7a7e358c078be"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "6477514433ac0cf5324d3aa5f49fd92c9b9b06ab04c5cd9a252d1262c71e5097"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.i686-w64-mingw32-cxx03-julia_version+1.13.0.tar.gz"
 [[slope]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e2e38050248138ee6e12cffd39a98cea9a9eb62f"
+git-tree-sha1 = "46eab4a34e4d10e48dd81caa83776760e17b7a95"
 julia_version = "1.10.0"
 os = "windows"
 
     [[slope.download]]
-    sha256 = "39a9c82cf2225a0d01211e63ac0457994ebc409eff9088941d7600cfbc9b2efb"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "9ebda21ac38b360dfe625125df3b6e2e6a384cb0041b5852f39f7724dee03db3"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[slope]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "95f816e2290e9f56183131b0e373d8df09db271a"
+git-tree-sha1 = "a74d56a747edc8115df1f24429293c48116e7547"
 julia_version = "1.11.1"
 os = "windows"
 
     [[slope.download]]
-    sha256 = "0329a0950fb9fa4861bb2330eeac51c9a1f8d5701ce05a98f7c1018d3c4d7c5c"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "386423d1e103adc0b6248d874158be790f1f9de5d427a40c51375b0bc7799c2d"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.i686-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
 [[slope]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8af41cca28f43d1760cdf7ec4432a355c7fe91b1"
+git-tree-sha1 = "f986b1a87df7e4efaecfa2f790025210bf527670"
 julia_version = "1.12.0"
 os = "windows"
 
     [[slope.download]]
-    sha256 = "f060bb2e7725e7f1f5bfddc8db110bd7b0c13c5425f4ef7e5b24953e629ca1b9"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "bee96e274dbcefdaa8e61f90672ec708a63a2f5d6cdeda5d051f35e15a7dabc4"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.i686-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8af41cca28f43d1760cdf7ec4432a355c7fe91b1"
+git-tree-sha1 = "93a832735563f874ad5b7d8d74f69b880087d480"
 julia_version = "1.13.0"
 os = "windows"
 
     [[slope.download]]
-    sha256 = "f060bb2e7725e7f1f5bfddc8db110bd7b0c13c5425f4ef7e5b24953e629ca1b9"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
-[[slope]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "36546a36a30edc03967fdc5ffdc61f680d1a9b7e"
-julia_version = "1.6.3"
-os = "windows"
-
-    [[slope.download]]
-    sha256 = "f5f2c27ea73d6d387f48e6d381f2bb1746ea84e89f061289f09b157773d82ec8"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "2a577944d95397a593c7bd6297e710b2a76a7910"
-julia_version = "1.7.0"
-os = "windows"
-
-    [[slope.download]]
-    sha256 = "f616324fd15242f980a129575c1989e70fa1d46d0c36d8199e58d02c6be907b5"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d71c86cd5ffc044e75c1053f019fe5f11b5b2bf5"
-julia_version = "1.8.2"
-os = "windows"
-
-    [[slope.download]]
-    sha256 = "db39361c893eebd5612614b1947604fe622f0928b73c7d60d2aab2a44719086f"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "782027171a07964931eceac7e4384b5e49579417"
-julia_version = "1.9.0"
-os = "windows"
-
-    [[slope.download]]
-    sha256 = "ac2f02fdacbb82a12f0108cb576806c154086faedff0921191d488516cf5a05d"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.i686-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "846588e2b78f509d794d2ad11f7c77e3e2dd87b6c9bc88622f06c8f509417dcf"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.i686-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
 [[slope]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "887980f5f4a4402de52567e68ad95c84086473fe"
+git-tree-sha1 = "d4b1f1e792fab3b2cbfdbc23e55fc82152a5ae99"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "3d7cee346c71f54bede98dffa422791fa029498237c5190c6b7b721102d9e3a1"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "51ebec5e361d8a0681dd1ad88bd6136416936d499ce5cea2cb85d226e75a6a53"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[slope]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "552f5ce015c193c6c315c4e46b1558ff0124847c"
+git-tree-sha1 = "7b6496c1226efbc0a3bc4fcdbd0254574bf0c354"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "7d353bc4592f9ecf3a13a3d961ffc2a8e9662f75c06abf09f41b95c220e277f4"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.powerpc64le-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "9d6ff0b738e481228838e735277666eb7d3f3b56b7ca71c5e4a17f1399fc91fe"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.powerpc64le-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[slope]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "050075e926589c15010c2dea8a4164a8fceb35da"
+git-tree-sha1 = "b3afd5b9bfcf13713d4d8540c9da5cdaf905df6b"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "7f10ba035f17264c5e1087db37a7122de4a9ca66263863519221001bb11e995e"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "cc375e1b946990fe5b51c6545821724c86626807aaa092dc6d7b450d33251eb8"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7d73a9477d31bc34db04d768c496f9a41a766bc9"
+git-tree-sha1 = "7aee2fc5eeb0421e1149c63187d78e94c54b3761"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "9237278b4f57f8f04cb189e64a253656aec045e368e7c79e815cbd37d43364fa"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.powerpc64le-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
-[[slope]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e779f869624b47dfe47f742188407d9f569a4bd6"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "d467bfcb7eac743576fc6f1ed48cb092807472bd6a8b326b1f199dd3fc9a66a2"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "cb91800b169fffa9eb48c7af4ed7e5e843558236"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "d4ed7e8a213933b84c72f87e51ab8d6aed07582f9c08d90d8adca571b6a57dc0"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "cb91800b169fffa9eb48c7af4ed7e5e843558236"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "d4ed7e8a213933b84c72f87e51ab8d6aed07582f9c08d90d8adca571b6a57dc0"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "cb91800b169fffa9eb48c7af4ed7e5e843558236"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "d4ed7e8a213933b84c72f87e51ab8d6aed07582f9c08d90d8adca571b6a57dc0"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "34b2e4b5ea352cfd0c5d8978d34d70ec31fece3b99c568dad829ff72132059ba"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.powerpc64le-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
 [[slope]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "554b89eda82b4a72611906d4bb8d2060aa745c7d"
+git-tree-sha1 = "fa27a0e8f58554bcef2831e9d344248498a500bb"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "e93fc4b622c3a413df7a69f2b6d65c12acd39e483871b04e418d34b3608597d9"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "26352dc318be9877de580f3e195033b0816b7ef436a24af2fdd1b988e6edc065"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[slope]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3b2359ef749f3efae65d5ac7b9e25a26c7d0da08"
+git-tree-sha1 = "a47752ca49a769cd4e7e68b2df64c97aee298383"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "95727a2e1feb3661479bb0ffa69ebb780696cc5acd070c5bfdbf0360f906944f"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "5e7d672e74cb5175ed96735b5092e350a254334652e5366a301be15405e6539c"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[slope]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bb19c3dc95f909da03436f2d5f3b730f90979009"
+git-tree-sha1 = "c2704c8ef71f40c1cb4608c6472037f476f89b0d"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "916959476504d414b742d21f98d51e17352864271f05fd5edfe9cec6b1a7a646"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "e1235d926b350c906b8737184fb069a6db1ebc707680977e9e7e69916c075c3b"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e3494390abd8c3cf07cf5eebbd5054c86ac73184"
+git-tree-sha1 = "c5421dc64be49836ac88ab16fcb68b3a2e49fe05"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "d1418db7ded4cba3cd052fb4e7713a9d87c85e3d654edeb10fdd8ff8383c417a"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "cf21b652c4799a76b759d6a121192968191415fbdca1614e2017fbf61df5a64c"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[slope]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "2f540b4dad98a38792f3c23c2d719278086507ed"
-julia_version = "1.6.3"
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b039495c684afe8eb40b240095b5c7999faf3cb7"
+julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "4ecb9503b67e703f7bc43e7a45732f7af65f30c92e1fea6efd4ad33d396407ed"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "57fdcec9f108f3ffe4f87a6368a304d51f58463a0ad5adc1ad143ea524a8659b"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.riscv64-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
 [[slope]]
-arch = "powerpc64le"
+arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d8fe2ea5153580f35ce33e2732c87a0c00ec6548"
-julia_version = "1.7.0"
+git-tree-sha1 = "351ba7582f25273d3580c30343016a6aa51b6b8c"
+julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "80f08cfc708f8c1fc558060d3a0af971bcb220c266958970f91db785e4c98a37"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d8fe2ea5153580f35ce33e2732c87a0c00ec6548"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "80f08cfc708f8c1fc558060d3a0af971bcb220c266958970f91db785e4c98a37"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d8fe2ea5153580f35ce33e2732c87a0c00ec6548"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "80f08cfc708f8c1fc558060d3a0af971bcb220c266958970f91db785e4c98a37"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "c71ca97ceb61687576ecd3fc7a5659331453b3559bac19edf8763b04c6266e55"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.riscv64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[slope]]
 arch = "x86_64"
-git-tree-sha1 = "8de94dce38abc3dae78a76fa183ef79478cc6ffb"
+git-tree-sha1 = "bd66bd863a1ace04145ced452a7d9e22ec696fea"
 julia_version = "1.10.0"
 os = "macos"
 
     [[slope.download]]
-    sha256 = "912781b3b4487d2155c77f955645d7078b7dbbd8c3cad86e3418f3bb19272157"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "147a0a48840804d00657568e56457dab2e33b219acc3a41bedd52ba73547beab"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[slope]]
 arch = "x86_64"
-git-tree-sha1 = "cb5e4065800d891e675328ad89549074f836065e"
+git-tree-sha1 = "534c531d68399495a355b3e7d7b230a94065126c"
 julia_version = "1.11.1"
 os = "macos"
 
     [[slope.download]]
-    sha256 = "a8ba55febd30c03809e24027857a8d3f3f5bf9b6644b3726f928293cf485d6a2"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "9638803332ae3a3fa59d2e253cb540ddecba8721e53102b5324bef0cc6f4344d"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[slope]]
 arch = "x86_64"
-git-tree-sha1 = "8c82703632910696436910734b891ae6615bdaa2"
+git-tree-sha1 = "3c0aa8c7eb974be63a7c36fa3c188500fa92d424"
 julia_version = "1.12.0"
 os = "macos"
 
     [[slope.download]]
-    sha256 = "a4c7ba736d30e65f6a0f90255eff6238eaadd3f962861b79e520c8607c900799"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "ddbbb7863500e420a33ff8daf919b5f3b39b5b745843bec9b72d0e1e6b4e4a8c"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "x86_64"
-git-tree-sha1 = "e9c2ee6f1457861f51fa7777586bfb0288324411"
+git-tree-sha1 = "2514d8794b5571dbfde26a61a4b30c4016ec8122"
 julia_version = "1.13.0"
 os = "macos"
 
     [[slope.download]]
-    sha256 = "ff88aa215085499a34900eb7758f791c1bfcccc528cccbc01a47e420da58052b"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
-[[slope]]
-arch = "x86_64"
-git-tree-sha1 = "a613156d06637cddde5c22dafd155122eca82527"
-julia_version = "1.6.3"
-os = "macos"
-
-    [[slope.download]]
-    sha256 = "fac8884ea1d85b0c4bbe887aab1d63c5c5b6216b51b6028b5cb9d1ff0a68fe67"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "x86_64"
-git-tree-sha1 = "1f0842150146a8d24344c9022643f9333f9c0841"
-julia_version = "1.7.0"
-os = "macos"
-
-    [[slope.download]]
-    sha256 = "a98c3eae91ec54ed3d4060db827555481fdc0ee7436b795601a40916e75fd303"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "x86_64"
-git-tree-sha1 = "4eb2e01873583f7baca919420935bd0c3968329a"
-julia_version = "1.8.2"
-os = "macos"
-
-    [[slope.download]]
-    sha256 = "8eed0d603b8d687b5cf1d005f62b9d271a297ee7d96d61c6ce1435d4771fcb93"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "x86_64"
-git-tree-sha1 = "d9792fe74a39e1f394a3fe571e96cbb05a090f80"
-julia_version = "1.9.0"
-os = "macos"
-
-    [[slope.download]]
-    sha256 = "42b80c4ec1bb16110f739483dfdc8ebce9c6707a1ce98b86cc5f91a55eb6ad67"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "d9402ed7d921a0fd1237a05b54a17e7b4c432895cdad925667ba9fb8e6ca4da7"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "edb8bb16b82334580f259b4af5ab4dbb582258fa"
+git-tree-sha1 = "55df772c1d86e563ad1596b6a2d004dcd90e2e94"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "216f495ee49b07e6bae19375e0d03a35e18deb5945f132fe0ab66e09cfc3cae8"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "01271eae7c31b60239634e91ac52c7faaca746a0aec58c1e06ecb3074420fb9d"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "44d2fdf8dd189e9e0463c85d274503f64fcc0349"
+git-tree-sha1 = "07dc0664f4194f85492b981fc3462f3cb6d87bf5"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "547bc24624709e7ff565b730bc8e852cda7f4039f38879ddc58721ddc0bc39df"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "618c16004a74b306f65ce79b987ad171d2359a79331fcd5bd0ed8380554c2d04"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f90a930830f62699ca9f4c49b85e1f3862478658"
+git-tree-sha1 = "46e8102624869e085954fe2e99ff10e1ad64c044"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "5634a479e1bbbdb5e7319dcd907a1ee325af8b1cab7b7a863aba458e4b7c585b"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "30944bc589e8f5f5b8e1d34bc92dec181f3ad5d783064e4fa4718fe01bc98374"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "21cc26b53ee43b4687d956679e63fa5492db9424"
+git-tree-sha1 = "50eba68195379e2b1a23bab870cc1b1f50dc5b88"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "26be10e1ecaf181f75ad84ab53ba785c4b4c8cc8eff1e8525c7a63df6365fcad"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1dc02784baeba262aa483b216b5c1b31bc8782a7"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "5345dff79c84a5e340361eee13d7662f176ac9c611d74f1ba69ff58d6f538e00"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "dbeb548ecf34f3bf8742b77ad8837874e4790745"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "ce70208e9d02059c13d8674edbf0280653c9f4e0f0c6dbf3f4f4afdae990e9a0"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "dbeb548ecf34f3bf8742b77ad8837874e4790745"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "ce70208e9d02059c13d8674edbf0280653c9f4e0f0c6dbf3f4f4afdae990e9a0"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "dbeb548ecf34f3bf8742b77ad8837874e4790745"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "ce70208e9d02059c13d8674edbf0280653c9f4e0f0c6dbf3f4f4afdae990e9a0"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "6e7521c130422d9c094bfdeb0aa14fb560af6763b5867cec77f9eff57a03cc14"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ad017db9d8af81c26dfbdf4988458397bd3bcd88"
+git-tree-sha1 = "670191b4b629a3d246429fc25464fa0f689daaf8"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "bf9f8449b0c0e2a1dae833e4dcee660c3408b473551dee22e33b803618963118"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "93df6a1c769ead6a6902efc0a8f083a9a5bbbdaea2a6b1887b989f593ad12331"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a201fecaee4dad469da32e2bddc2e9cc825683bc"
+git-tree-sha1 = "5fe01ed7abe20a12e9505691f0cef5ae347e19ad"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "2685e54717b568a2caf342aaae20a513739a968e3bb30faf2614b9b3ebb31b6e"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "854bc8288f6a2cf6f2d54867a2ddfd4935613a9a65f0e607b3c044b2c0a354a4"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "52e2a6c8b115248c4a50f006d99e7bd7a20de6f7"
+git-tree-sha1 = "feb50c6d6e8687fee3ae52487bf94db25ca739b0"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "ba64f3d79c74f25869c08a7288224c25d79394e1758a8883eeb9acbfc586d6ab"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "7c804cb00023c8d03b10c473e62ec57dd4efbef4d3b16909f39d99afa689ef26"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "675c379815286b6d8be58d45a9a1224ad2092689"
+git-tree-sha1 = "74fd2fb74ed7f31dce9797ef7193ee5bb7d195b4"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "7d4647d0c2307bb24de2e7df778f1864b774434f63b5617ff4463f3cfb0bf115"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "de70d21effce910e3f5010d525c51cd725037566"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "08b0f09632abfee0acf61fbcb65d297b7c2fa6d1f833adceac6e2eb9381a6c5a"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "f3b6100ddbf8c11e8517748ad5cdfe37e69178af"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "cff2a60ac22b7894864854be97851fe80f371fbec69cf0084b6bb9ff63207f74"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "f3b6100ddbf8c11e8517748ad5cdfe37e69178af"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "cff2a60ac22b7894864854be97851fe80f371fbec69cf0084b6bb9ff63207f74"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "f3b6100ddbf8c11e8517748ad5cdfe37e69178af"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "cff2a60ac22b7894864854be97851fe80f371fbec69cf0084b6bb9ff63207f74"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "5c82c34c6552a186281bdaade966d7ac5f35e20c16778c82d3cb31c1f1d2b1c2"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "74c43542728ed3e2a2fdf61e6632c6f91e0242e4"
+git-tree-sha1 = "ad037687f3badd057227532e415ed7181713c9fb"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "b841d7283f7a5415446014feb06497ef1efca59d76900ce7893740577d3a7a8c"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "829b542dbbf388553e0b5be614ab0f6be8f28c05ebeb331e1979bb3fba53513f"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "226979c81978e49d606d2349ffb761e638f827bc"
+git-tree-sha1 = "9663761bcd57bab09c446c87fa224ada10b78397"
 julia_version = "1.11.1"
 libc = "musl"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "42de48a339cdf8c136689b87003ed55507328c2a270a0d71de06e4a957742743"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-musl-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "99c85dc01d996b4f520242264c8d4be9898c063ddcf04b1d17c98340434cbb44"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-linux-musl-cxx03-julia_version+1.11.1.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dc94f5e77fc9da284a240c836a38b4a1dabcd225"
+git-tree-sha1 = "1229799318936abc18dd07b73a1ba36aa59c0fc1"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "a18e929559006e53acd60b1d8ccc1bc6f50eee726fe9a6bd87b6466f7fa6fe5b"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "106de2b9f7cc656327c591b59326569805e5742d000c2539b9bbb77eed407c17"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2468eae1f08368c2ca891c7cb7e00357b02e4ddf"
+git-tree-sha1 = "8af6952cb4b5b78c32372a256cd1188d5d2b55dc"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "314571d93f614d71198c9ca604795382dd113723d3ac0f753371c0a36c901906"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-musl-cxx03-julia_version+1.13.0.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "84a21a8ea145b59baf5e0a88ab991703d43d71d7"
-julia_version = "1.6.3"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "5baf267c2550892cc1ca9955d56c98d6d06bb0bf056684dacfc0837dcda682b9"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "74350483b2f4364b7bcf74a66c6ebe589306d821"
-julia_version = "1.7.0"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "be4f71dd7639a3317430d03145b83a52110b77096b837a20ab60fc1cfe9a59c0"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "74350483b2f4364b7bcf74a66c6ebe589306d821"
-julia_version = "1.8.2"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "be4f71dd7639a3317430d03145b83a52110b77096b837a20ab60fc1cfe9a59c0"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "74350483b2f4364b7bcf74a66c6ebe589306d821"
-julia_version = "1.9.0"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "be4f71dd7639a3317430d03145b83a52110b77096b837a20ab60fc1cfe9a59c0"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "f0e0dc44eae3ed7bc3f8f3d384e0756c7ab33009bb490db4a30787b5b1942d34"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-linux-musl-cxx03-julia_version+1.13.0.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "04d415d467cc94fcaa2855c1a839272fcb612180"
+git-tree-sha1 = "103861d6b36a482d125c76b584158c62f2d8d7b9"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "1c33fa0563dbcc450aa7a32524d86e3b2e2a42c55199b9ce0f8cb3b89cb7e7ba"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "b6f53157fef03efee2668416d9d0951eea8c3d23d82df0bb9fa3311b7ce77e60"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c864871c3f9c320bf637ccd44d1e06e3d713b21f"
+git-tree-sha1 = "72a5d8c5e2607b08b183900fe20ecdd4bca81104"
 julia_version = "1.11.1"
 libc = "musl"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "53813b99747ca6eeb19429ab5649811afc23ea715450b2ae96fa24d28176c67d"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "61716deb37087fcfdffbf690bb19f1b50e1772e4a6dc4e3a4818c085347d36aa"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e743718960a1e9d262516f36c9ba9a6b51a71c3c"
+git-tree-sha1 = "2a8f445fef0c73f3dbf14c5eb335a217ff093786"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "d41087cc13c0c522324aca2b2beeb5efdc8ad2306739992151a413e774dc69c5"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "5a2990e47d660c2a5c8a7d9e30ff9c3f592cb211586234bae087115dfbb53cad"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "059574596b52c66fe021e16d09286da4f432da20"
+git-tree-sha1 = "909ed28c1e4fe1a4ce1268ebfd4284a048d9dbcb"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[slope.download]]
-    sha256 = "477548eb6457e08302c620edf670698319ae1b79afc16aeacfb3f2a067a32d72"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "d0ac6d7fa1128055fb99a4b79a2b1266ad7c83d404a9159f7479a83abb25ffbd"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
 [[slope]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "0ab5faafff01ccd064f1c3c02d73ab383e095056"
-julia_version = "1.6.3"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "bb218bf5893c1d8957257ceb6155f4c4f0e7f8b772f49b7bfbfc2b2088016078"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d386ddf32255a3a5a867833a639db28b891f931d"
-julia_version = "1.7.0"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "3c6bca91d7894eb09a4914a38410dacaf15d70e1ea15f2fa7d0eea34397936c2"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d386ddf32255a3a5a867833a639db28b891f931d"
-julia_version = "1.8.2"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "3c6bca91d7894eb09a4914a38410dacaf15d70e1ea15f2fa7d0eea34397936c2"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d386ddf32255a3a5a867833a639db28b891f931d"
-julia_version = "1.9.0"
-libc = "musl"
-os = "linux"
-
-    [[slope.download]]
-    sha256 = "3c6bca91d7894eb09a4914a38410dacaf15d70e1ea15f2fa7d0eea34397936c2"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
-[[slope]]
-arch = "x86_64"
-git-tree-sha1 = "add717e9021c23795eb32ae5bbe86ae747838bd0"
+git-tree-sha1 = "45d1938d2719143ba0807fbd05b6233d01e24e4d"
 julia_version = "1.10.0"
 os = "freebsd"
 
     [[slope.download]]
-    sha256 = "4566d02c436a769c7ea5572b0f55a59a0e39e1bf8ee99f8fb77b0a3878cff1ea"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+    sha256 = "2f8792791c797e7dcf22cf51dc4b4f82a2dd02b451eae6bd6f34951b7dede702"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
 [[slope]]
 arch = "x86_64"
-git-tree-sha1 = "e5aa2eeac9533bcd5a510fbbe966d00647e28861"
+git-tree-sha1 = "adfb486cec7e4043fee012944158419020e12516"
 julia_version = "1.11.1"
 os = "freebsd"
 
     [[slope.download]]
-    sha256 = "9b200ff037145392355286689113d3974dea9495dfa4aded304e72ec7153c165"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
+    sha256 = "333ca7a33708192b1f6cd25aa6a83398ba75c3f7200918032fdf47394a6abab6"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
 [[slope]]
 arch = "x86_64"
-git-tree-sha1 = "e620394c37d97dcddc1a80a4b1e27595a5643798"
+git-tree-sha1 = "5f6513c567077925a7c4d55ac6ee2aeed4c67414"
 julia_version = "1.12.0"
 os = "freebsd"
 
     [[slope.download]]
-    sha256 = "c0c2bf4b18a1796e40f1478d06a498abe7dc3afcb43a83433b85b4f030af4767"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    sha256 = "bdcb80be69b4be8169ec3e2dbca57c856c5c35cd0ba0d83df609385018b7090f"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "x86_64"
-git-tree-sha1 = "08d2d7ff777fa1e704ef329b5851a2855b158604"
+git-tree-sha1 = "8ae2942b20bec3b6b133bacebd4484feca39a15b"
 julia_version = "1.13.0"
 os = "freebsd"
 
     [[slope.download]]
-    sha256 = "e2d535276e65f9d7f26a6a02b77e683746aaa5f9a3ae21c84192c792de580076"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
-[[slope]]
-arch = "x86_64"
-git-tree-sha1 = "c01a761ca0c52ef63f46230c5ad32226174a6a17"
-julia_version = "1.6.3"
-os = "freebsd"
-
-    [[slope.download]]
-    sha256 = "68967c234de62bc940eac161213758b8ff6f2355cc4c874a20f37e4091eb78ad"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "x86_64"
-git-tree-sha1 = "01e46447b64ea1946b83b5e5e6a2a019821cedb4"
-julia_version = "1.7.0"
-os = "freebsd"
-
-    [[slope.download]]
-    sha256 = "1c85c845dd4060f28ad3d5eb80587cdb82924ad6f5bd37db94990df406ec067b"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "x86_64"
-git-tree-sha1 = "01e46447b64ea1946b83b5e5e6a2a019821cedb4"
-julia_version = "1.8.2"
-os = "freebsd"
-
-    [[slope.download]]
-    sha256 = "1c85c845dd4060f28ad3d5eb80587cdb82924ad6f5bd37db94990df406ec067b"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-unknown-freebsd-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "x86_64"
-git-tree-sha1 = "01e46447b64ea1946b83b5e5e6a2a019821cedb4"
-julia_version = "1.9.0"
-os = "freebsd"
-
-    [[slope.download]]
-    sha256 = "1c85c845dd4060f28ad3d5eb80587cdb82924ad6f5bd37db94990df406ec067b"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
+    sha256 = "46d8eca7ade47d60ccf8cf747d1d8667bb6cf508500188afd7dfaec5135514bb"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8a90710c7bdfc5bf615e743ba103892287cfadd5"
+git-tree-sha1 = "83e1482ac126e95d272ccc0d05d4dcbf6f851756"
 julia_version = "1.10.0"
 os = "windows"
 
     [[slope.download]]
-    sha256 = "94e4e911e6f4c47903ab2a59b79defaa8771f2e98ff11b4e5951432d6e983699"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "20cbf8502bf365da2f4d0441f289fe07edab9981ab968493aeb07b17011c3a54"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8ba73c26597a1607dd203ca5af5b2106042c3073"
+git-tree-sha1 = "075938e2ae9d5aca83e8b1ce40e468da3c793f87"
 julia_version = "1.11.1"
 os = "windows"
 
     [[slope.download]]
-    sha256 = "714de699ebe6f1d29744ec2263b71cceefb67299dd9ff94c871d01aa344f1fc2"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-w64-mingw32-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "4f5ed6c4251571072a950abe259f20bf94d83828003af24df7b1527dc0acab18"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-w64-mingw32-cxx03-julia_version+1.11.1.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cb96c80cf0576be5209d0a036ddd56a5ecee1cb2"
+git-tree-sha1 = "cff8c31a1a69fbef035e049ce73c9cc632f122b1"
 julia_version = "1.12.0"
 os = "windows"
 
     [[slope.download]]
-    sha256 = "95d3403fe6c546422af9e9f2f5283027e5e418e41b97dc65d272d474c5a92655"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "6a90beca2cdcaa0198f111e65ace6937166767658a57813d8f9f5f305a948d72"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cb96c80cf0576be5209d0a036ddd56a5ecee1cb2"
+git-tree-sha1 = "487add114eca5483b982494e05a2a598d0c7dfb9"
 julia_version = "1.13.0"
 os = "windows"
 
     [[slope.download]]
-    sha256 = "95d3403fe6c546422af9e9f2f5283027e5e418e41b97dc65d272d474c5a92655"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-w64-mingw32-cxx03-julia_version+1.13.0.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "006dcdcf73518e179c1b557ffd0e697f5a119f28"
-julia_version = "1.6.3"
-os = "windows"
-
-    [[slope.download]]
-    sha256 = "5816388cdd61c92426fa5ae98645effea3aa5a0271ed389cbc8e5ebb4c047d90"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "b5d6456ea9341dfb5bf8fbc10d726c8d64f20d5e"
-julia_version = "1.7.0"
-os = "windows"
-
-    [[slope.download]]
-    sha256 = "e02800bd8bace3ab7b9627881f8a11814058b5fc3019626c24aada44dcbfd5f8"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "add5f3170384668c91eb2d211273cb4cc043f4ae"
-julia_version = "1.8.2"
-os = "windows"
-
-    [[slope.download]]
-    sha256 = "ac1b5610df581f1a0e03435b2b64eb4e9e5579eb29387c582ec439d2f01028a3"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "29aa083a4f000a920ca3ba3c3d9f3f93a4ec4489"
-julia_version = "1.9.0"
-os = "windows"
-
-    [[slope.download]]
-    sha256 = "3129ceefdb4281af5bd30d03b8e48962f115cf996c1ca64fc49e7ec7d6bf27ca"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "23cd39fe0a9c682a0e26bec51d2e5a42ec184be2c4869a729a71f15f1bec1af3"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-w64-mingw32-cxx03-julia_version+1.13.0.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "77b1924c155fe7aacd099e3cd365f97b2d69f722"
+git-tree-sha1 = "5f55910c4b50878185083e5118bac4031ac6f0d1"
 julia_version = "1.10.0"
 os = "windows"
 
     [[slope.download]]
-    sha256 = "4a4b49ed15eeee232410b162493c70f7d732a8f0abcddb4f108ab43ededf37a2"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "392fa44abc55b07362fe3d08a95056324a2727445c0b95e90a5678c31ba7bd80"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b61a007b5175d024fa45de8e7520cc9378a00ede"
+git-tree-sha1 = "c56a052f3bd2b1d508f83432ea3431d6882d092d"
 julia_version = "1.11.1"
 os = "windows"
 
     [[slope.download]]
-    sha256 = "c694e5ce93e52c416228dc007ff045d0e60f8fffe9b1291165c77a4437c5d022"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "914ff409e30961ee198878dd1fad8446a91914500fe0f2198acf84de81d74507"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ec27f6ae6088464fe9723fa142a4705bc76db6d3"
+git-tree-sha1 = "ad4cd3d90838fa72d25e6e97fb3381c7f0fd2523"
 julia_version = "1.12.0"
 os = "windows"
 
     [[slope.download]]
-    sha256 = "603ab4c5c6ee38e008400ebf5ec40b6351e751e74d684fb4ba51f2bb6dbbc3bb"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "80fb6b1d3777754615b6a1b475e7385c862f8cdb47900c544961a82878916797"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[slope]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ec27f6ae6088464fe9723fa142a4705bc76db6d3"
+git-tree-sha1 = "65045b29d5af4da1d508792fdb3ad72d57ac2f7d"
 julia_version = "1.13.0"
 os = "windows"
 
     [[slope.download]]
-    sha256 = "603ab4c5c6ee38e008400ebf5ec40b6351e751e74d684fb4ba51f2bb6dbbc3bb"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1dd9d4eca61fdcc6ad3b5343d9187b6e2be20c0b"
-julia_version = "1.6.3"
-os = "windows"
-
-    [[slope.download]]
-    sha256 = "15d76305582128dbfe6ab35087ecb9e817a59e30385daa69339d4ae77ac8cac9"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "05fbc1799bdacf98c99f09b8fbde56afe408dce4"
-julia_version = "1.7.0"
-os = "windows"
-
-    [[slope.download]]
-    sha256 = "344c01d83c24bb4adc32f0a85b8f24918ee0018955473c3adbf96094134d936e"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "281b2b4dce049cfb1f7fe83115e2c800c00a311c"
-julia_version = "1.8.2"
-os = "windows"
-
-    [[slope.download]]
-    sha256 = "086be4e37286fd3c1d71551ab3afda5840bad675c539f7b4153d86420e2180ae"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
-[[slope]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c822e582a1133b440f7b2600816e36f828cd97b9"
-julia_version = "1.9.0"
-os = "windows"
-
-    [[slope.download]]
-    sha256 = "8664f0cdcb3b01e9f5cde030b0e90b59146759d4e75eac443a72488ad77b6dd7"
-    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v2.6.0+0/slope.v2.6.0.x86_64-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "f6e2a3da9259ee91334478d6b889ea96c8c3d256ad1fdfa73628b5db5996bd11"
+    url = "https://github.com/JuliaBinaryWrappers/slope_jll.jl/releases/download/slope-v5.1.1+0/slope.v5.1.1.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
